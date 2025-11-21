@@ -11,4 +11,5 @@ Este proyecto contiene información pública sobre servicios técnicos autorizad
 ## Índice de Marcas
 
 - [AEG](aeg.md)
+- [Ariston](ariston.md)
 - [Balay](balay.md)
