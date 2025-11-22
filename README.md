@@ -11,5 +11,7 @@ Este proyecto contiene información pública sobre servicios técnicos autorizad
 ## Índice de Marcas
 
 - [AEG](aeg.md)
+- [Amana](amana.md)
+- [Amica](amica.md)
 - [Ariston](ariston.md)
 - [Balay](balay.md)
