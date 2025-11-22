@@ -14,4 +14,5 @@ Este proyecto contiene información pública sobre servicios técnicos autorizad
 - [Amana](amana.md)
 - [Amica](amica.md)
 - [Ariston](ariston.md)
+- [Asko](asko.md)
 - [Balay](balay.md)
