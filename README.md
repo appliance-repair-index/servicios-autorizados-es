@@ -17,5 +17,6 @@ Este proyecto contiene información pública sobre servicios técnicos autorizad
 - [Asko](asko.md)
 - [Aspes](aspes.md)
 - [Balay](balay.md)
+- [Baxi](baxi.md)
 - [Gaggia](gaggia.md)
 - [Promac](promac.md)
